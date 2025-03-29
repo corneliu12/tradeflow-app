@@ -1,1 +1,0 @@
-# TradeFlow App - Starting Point
